@@ -1,26 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<p align="center" >
-  <samp>
-    My name is <em>Dahezhiquan</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
-      <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
-  </samp>
-  <br/>
-  <br/>
-  <br/>
-</p>
-
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Dreams of publishing more high quality papers....
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  a finnance mobile app
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  games developed with some friends
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px"  alt=""/>  write more more paper....
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px"  alt=""/>  like look animation :]
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 
@@ -82,19 +67,7 @@ continuously learning, wanting to help the community
 
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
-<!--START_SECTION:waka-->
-
-```text
-Week: 07 August, 2020 - 14 August, 2020
-
-JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-```
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true"  alt=""/>
